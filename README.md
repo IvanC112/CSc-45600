@@ -1,16 +1,11 @@
-# Topics in Software Engineering
+# EaseBin
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+## Problem Description
 
-# Tools
-The tools that are installed with this devcontainer are:
+Waste management can be a hassle for residents in New York City. Many of which includes keeping track of trash pickup schedules, sorting waste correctly, and ensuring proper disposal can often lead to confusion. Ultimately, there is a need for a simple and reliable way for individuals to sort waste correctly.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
+> **EaseBin** is a waste management application designed to streamline waste disposal processes in New York City. By synchronizing with the city's sanitation schedule and waste guidelines, the application provides users with easy access to technology that simplifies categorization of waste and updated timeline of trash removal dates.
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+## User Base
+
+- Residents of NYC: Simply put, nothing is ever as easy as it should be in New York City. New trash disposal rules are often established in response to the city's ever changing improvements and challeneges therefore specific requirements for recycling and dispostal dates are constantly changing. Due to the frequent requirements, there ultimately exists confusion and annoyance among residents who finds it hard to keep up and manage these changes.
